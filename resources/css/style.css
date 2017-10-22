@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  text-align: Center;
+}
+
+#header h1 {
+  font-family: Verdana;
+  font-weight: Bold;
+  font-size: 50px;
+  color: white;
+  text-align: Center;
+
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: Bold;
+  text-align: Center;
+  text-decoration: underline;
+}
+
+#travel h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: Center;
+  color: white;
+  font-weight: Bold;
+}
+
+.text {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: Center;
+}
+
+.copyright {
+  text-align: Right;
+  color: gray;
+  font-size: 21px;
+  font-family: Verdana;
+}
